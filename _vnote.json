@@ -1,0 +1,64 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2019-12-08T05:08:38Z",
+    "files": [
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "WEBPACK学习笔记"
+        },
+        {
+            "name": "Vue.js笔记"
+        },
+        {
+            "name": "PyQt5学习笔记"
+        },
+        {
+            "name": "uni-app学习笔记"
+        },
+        {
+            "name": "Android开发"
+        },
+        {
+            "name": "Weex入门(慕课网视频教程)"
+        },
+        {
+            "name": "尚硅谷杨福光Android自定义控件"
+        },
+        {
+            "name": "尚硅谷杨福光Android OKHttp"
+        },
+        {
+            "name": "微信小程序开发尚硅谷"
+        },
+        {
+            "name": "其他笔记"
+        },
+        {
+            "name": "MySQL数据库从入门到精通黑马视频"
+        },
+        {
+            "name": "传智黑马69期 2018"
+        },
+        {
+            "name": "Django3.0学习笔记"
+        },
+        {
+            "name": "Git笔记"
+        },
+        {
+            "name": "Laravel6入门教程"
+        },
+        {
+            "name": "WebRtc技术"
+        },
+        {
+            "name": "NodeJS笔记"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}

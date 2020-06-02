@@ -1,0 +1,25 @@
+vnote_backup_file_826537664 D:/MyVnoteDocument/Laravel6入门教程/教程笔记.md
+# Laravel6教程笔记
+## 一.介绍
+![](_v_images/20200519192340507_17166.png)
+
+## 二.安装
+![](_v_images/20200519194544108_29448.png)
+![](_v_images/20200519195026129_8058.png)
+![](_v_images/20200519195206340_5811.png)
+可以参考laravel6中文文档：
+https://learnku.com/docs/laravel/6.x/installation/5124
+
+## 三.目录结构
+![](_v_images/20200519202239888_26188.png)
+以下图片摘自lavavel6中文社区
+![](_v_images/20200519204102006_5855.png)
+![](_v_images/20200519204303624_10622.png)
+![](_v_images/20200519204340683_15693.png)
+![](_v_images/20200519204429295_13513.png)
+![](_v_images/20200519204518789_13256.png)
+![](_v_images/20200519204552175_19429.png)
+## 四.路由
+
+
+

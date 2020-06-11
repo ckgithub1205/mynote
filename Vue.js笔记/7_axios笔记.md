@@ -65,6 +65,30 @@
 ### 3.第3种方式的封装
 ![](_v_images/20200605144542371_6545.png)
 
+### 4.第4种方式的封装
+![](_v_images/20200605145126651_16102.png)
+
+# 5.拦截器的使用
+![](_v_images/20200605145445774_21371.png)
+
+1.全局拦截器
+axios.interceptors.request.use                          //拦截请求
+axios.interceptors.response.use                        //拦截响应
+
+2.实例拦截器
+instance.interceptors.request.use                      //实例拦截请求                           
+instance.interceptors.response.use                   //实例拦截响应
+
+拦截器的应用场景
+1.当需要对请求的配置做处理的时候用到，比如配置信息的转化
+2.可以增加请求的loading效果，在这里处理
+3.某些请求，比如登陆(token),必须要携带token信息，可以拦截进行跳转
+
+
+
+
+
+
 
 
 
